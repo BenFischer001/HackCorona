@@ -1,2 +1,2 @@
 # HackCorona
-Pygame about hackathons and COVED 19
+Pygame about hackathons and COVID-19
